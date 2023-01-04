@@ -1,7 +1,7 @@
 # [CDRAG]Crypto-Dragons pool
 We are few enthusiasts from Slovakia who run the Cardano stake pool to enrich the Cardano ecosystem.  
 
-Please check our short [WIKI](https://github.com/KryptoDraci/crypto-dragons/wiki) in Slovak and English language to find out more about Cardano and how to stake with us.
+Please check our short [Wiki](https://github.com/KryptoDraci/crypto-dragons/wiki) in Slovak and English language to find out more about Cardano and how to stake with us.
 
 ```text
  <>=======()                                        
